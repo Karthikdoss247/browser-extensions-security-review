@@ -1,0 +1,141 @@
+Browser Extensions Security Review
+
+Repository Description
+
+This repository documents the review and analysis of browser extensions installed on Google Chrome and Opera browsers. The objective of this task is to identify installed extensions, evaluate their permissions, determine whether any extensions are malicious or suspicious, and document actions taken to improve browser security and performance.
+
+
+---
+
+Objective
+
+To review all installed browser extensions
+
+To identify unused or suspicious extensions
+
+To understand the risks of malicious browser extensions
+
+To document actions taken and final security status
+
+
+
+---
+
+Tools Used
+
+Google Chrome Browser
+
+Opera Browser
+
+Built-in Extensions Manager
+
+
+
+---
+
+Browser 1: Google Chrome
+
+Extensions Identified
+
+1. Google Docs Offline
+
+Purpose: Allows users to create, edit, and view Google Docs, Sheets, and Slides without an internet connection.
+
+Permissions: Access limited to Google Docs services.
+
+Security Status: Safe and trusted (official Google extension).
+
+Action Taken: Kept (useful and non-malicious).
+
+
+2. Microsoft Bing Search for Chrome
+
+Purpose: Sets Microsoft Bing as the default search engine in Chrome.
+
+Permissions: Modifies search provider settings.
+
+Security Status: Safe but optional.
+
+Action Taken: Can be removed if not required.
+
+---
+
+Browser 2: Opera
+
+Extensions Identified
+
+1. Opera Ad Blocker
+
+Purpose: Blocks advertisements and trackers to improve browsing speed and privacy.
+
+Permissions: Access to web content for ad blocking.
+
+Security Status: Safe (official Opera extension).
+
+Action Taken: Kept (recommended).
+
+
+2. Opera Wallet
+
+Purpose: Cryptocurrency wallet integration in Opera browser.
+
+Permissions: Used only for crypto-related activities.
+
+Security Status: Safe but optional.
+
+Action Taken: Disabled if not in use.
+
+
+
+---
+
+Performance Check
+
+Browser restarted after review
+
+No suspicious behavior observed
+
+Normal browsing speed and reduced ads (Opera)
+
+
+
+---
+
+Research: How Malicious Extensions Harm Users
+
+Malicious browser extensions can:
+
+Steal passwords and personal data
+
+Track browsing activity
+
+Inject unwanted advertisements
+
+Redirect users to malicious websites
+
+Slow down system performance
+
+
+
+---
+
+Final Summary
+
+Total extensions reviewed: 4
+
+Malicious extensions found: None
+
+Suspicious extensions: None
+
+Overall browser security status: Safe
+
+
+
+---
+
+Conclusion
+
+All installed extensions in both Google Chrome and Opera browsers are legitimate and safe. No malicious extensions were detected during the review.
+
+
+---
